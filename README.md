@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Satgeo logo.png" width="250">
+</p>
+
+# SATgeo Vinayak (OPC) Private Limited
 # SATgeo Vinayak (OPC) Private Limited
 
 ## About Us

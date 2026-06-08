@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Satgeo logo.png" width="500">
+  <img src="Satgeo logo.png" width="250">
 </p>
 
 # SATgeo Vinayak (OPC) Private Limited

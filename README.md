@@ -20,6 +20,7 @@ SATgeo Vinayak is a geospatial consulting company focused on:
 - Dashboard Development
 
 ## Contact
+Founder : Satyadeep Nag
 Email: satgeovinayak@gmail.com
-
+Mob. No.: +91 9424918975
 Location: Jabalpur, Madhya Pradesh, India

@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="Satgeo logo.png" width="250">
 </p>
 
